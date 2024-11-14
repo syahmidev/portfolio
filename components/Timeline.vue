@@ -19,20 +19,20 @@
                     <div class="text-lg font-black">Operion Website Design</div>
                     <div class="text-base font-black">Junior Full Stack Web Developer</div>
                     <ul>
-                        <li>
-                            Developed and maintained multiple client websites, focusing on responsive design and
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Developed and maintained multiple client websites, focusing on responsive design and
                             high-quality user experiences using PHP , Bootstrap, and VueJS.
                         </li>
-                        <li>
-                            Created RESTful APIs to facilitate seamless communication between the frontend and
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Created RESTful APIs to facilitate seamless communication between the frontend and
                             backend, reducing response time by 20%.
                         </li>
-                        <li>
-                            Assisted senior developers with database optimization and debugging, gaining hands-on
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Assisted senior developers with database optimization and debugging, gaining hands-on
                             experience in SQL and PHP frameworks.
                         </li>
-                        <li>
-                            Successfully delivered 10+ client projects, receiving positive feedback on performance, user
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Successfully delivered 10+ client projects, receiving positive feedback on performance, user
                             experience, and functionality.
                         </li>
                     </ul>
@@ -58,20 +58,20 @@
                     <div class="text-lg font-black">Etctech Global Sdn Bhd</div>
                     <div class="text-base font-black">Mid Full Stack Web Developer</div>
                     <ul>
-                        <li>
-                            Contributed to full-stack development in a fast-paced environment, working on both
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Contributed to full-stack development in a fast-paced environment, working on both
                             client-facing and internal applications using Laravel, VueJS, and AWS services.
                         </li>
-                        <li>
-                            Spearheaded the migration to a modular front-end structure with VueJS, resulting in a 25%
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Spearheaded the migration to a modular front-end structure with VueJS, resulting in a 25%
                             increase in development efficiency.
                         </li>
-                        <li>
-                            Integrated third-party services like Stripe and SendGrid for streamlined payment processing
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Integrated third-party services like Stripe and SendGrid for streamlined payment processing
                             and automated emailing, enhancing application functionality.
                         </li>
-                        <li>
-                            Collaborated with cross-functional teams to improve application performance, leading to a
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Collaborated with cross-functional teams to improve application performance, leading to a
                             15% reduction in load times.
                         </li>
                     </ul>
@@ -97,23 +97,23 @@
                     <div class="text-lg font-black">Les' Copaque</div>
                     <div class="text-base font-black">Senior Full Stack Web Developer / Team Lead</div>
                     <ul>
-                        <li>
-                            Led a team of developers in designing and delivering complex, user-centered web
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Led a team of developers in designing and delivering complex, user-centered web
                             applications, ensuring high code quality and adherence to project timelines.
                         </li>
-                        <li>
-                            Collaborated closely with product managers and stakeholders to define project goals and
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Collaborated closely with product managers and stakeholders to define project goals and
                             align development efforts with business objectives.
                         </li>
-                        <li>
-                            Developed and optimized server-side logic and API integration, reducing server load time by
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Developed and optimized server-side logic and API integration, reducing server load time by
                             30% and enhancing system efficiency.
                         </li>
-                        <li>
-                            Implemented a CI/CD pipeline using GitLab, improving deployment speed and reliability by 40%.
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Implemented a CI/CD pipeline using GitLab, improving deployment speed and reliability by 40%.
                         </li>
-                        <li>
-                            Conducted code reviews and provided mentorship to junior team members, fostering a
+                        <li class="mt-4">
+                            <span class="text-accent">-></span> Conducted code reviews and provided mentorship to junior team members, fostering a
                             collaborative team environment.
                         </li>
                     </ul>
