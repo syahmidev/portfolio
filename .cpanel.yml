@@ -1,0 +1,14 @@
+version: 2
+deployment:
+  type: git
+  repository: https://github.com/syahmidev/portfolio.git
+  branch: main
+  commands:
+    # Install dependencies
+    - npm install
+    # Build the Nuxt app
+    - npm run build
+    # Optional: Run Nuxt's generate command if using static site generation
+    - npm run generate
+    # Optional: Start the Nuxt app (only if using SSR mode, else remove this line)
+    - npm run start

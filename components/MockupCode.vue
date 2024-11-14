@@ -3,7 +3,7 @@
         <!-- Web Development -->
         <div class="flex flex-wrap gap-4 justify-center">
             <div class="order-2 md:order-1 w-full md:w-[55%] mockup-code">
-                <pre data-prefix="$" class="bg-warning text-warning-content"><code>npm i web development</code></pre>
+                <pre data-prefix="$" class="bg-warning text-warning-content w-min"><code>npm i web development</code></pre>
                 <pre data-prefix=">" class="text-warning"><code>HTML, CSS, JavaScript, PHP , Laravel, VueJS, NuxtJS, ViteJS, InertiaJS</code></pre>
                 <pre data-prefix=">" class="text-warning"><code>WordPress, SQL, Modular, Vitepress</code></pre>
                 <pre data-prefix=">" class="text-success"><code>Done!</code></pre>
@@ -24,7 +24,7 @@
                 <pre data-prefix=">" class="text-white"><code>and styling frameworks to accelerate and standardize the design process.</code></pre>
             </div>
             <div class="w-full md:w-[45%] mockup-code">
-                <pre data-prefix="$" class="bg-warning text-warning-content"><code>npm i ui frameworks & libraries</code></pre>
+                <pre data-prefix="$" class="bg-warning text-warning-content w-min"><code>npm i ui frameworks & libraries</code></pre>
                 <pre data-prefix=">" class="text-warning"><code>Bootstrap, TailwindCSS, Vuetify, HeadlessUI, DaisyUI</code></pre>
                 <pre data-prefix=">" class="text-success"><code>Done!</code></pre>
             </div>
@@ -33,7 +33,7 @@
         <!-- DevOps & Server Management -->
         <div class="flex flex-wrap gap-4 justify-center">
             <div class="order-2 md:order-1 w-full md:w-[30%] mockup-code">
-                <pre data-prefix="$" class="bg-warning text-warning-content"><code>npm i devOps & server management</code></pre>
+                <pre data-prefix="$" class="bg-warning text-warning-content w-min"><code>npm i devOps & server management</code></pre>
                 <pre data-prefix=">" class="text-warning"><code>Docker, AWS EC2, AWS ECS, Vercel</code></pre>
                 <pre data-prefix=">" class="text-success"><code>Done!</code></pre>
             </div>
@@ -52,7 +52,7 @@
                 <pre data-prefix=">" class="text-white"><code>fostering team collaboration, workflow tracking, and project transparency.</code></pre>
             </div>
             <div class="w-full md:w-[30%] mockup-code">
-                <pre data-prefix="$" class="bg-warning text-warning-content"><code>npm i project management tools</code></pre>
+                <pre data-prefix="$" class="bg-warning text-warning-content w-min"><code>npm i project management tools</code></pre>
                 <pre data-prefix=">" class="text-warning"><code>Asana, Trello, ClickUp, Lark</code></pre>
                 <pre data-prefix=">" class="text-success"><code>Done!</code></pre>
             </div>
@@ -61,7 +61,7 @@
         <!-- API & Integrations -->
         <div class="flex flex-wrap gap-4 justify-center">
             <div class="order-2 md:order-1 w-full md:w-[45%] mockup-code">
-                <pre data-prefix="$" class="bg-warning text-warning-content"><code>npm i api & integrations</code></pre>
+                <pre data-prefix="$" class="bg-warning text-warning-content w-min"><code>npm i api & integrations</code></pre>
                 <pre data-prefix=">" class="text-warning"><code>Swagger, SendGrid, RevenueMonster, Stripe, Laravel Breeze</code></pre>
                 <pre data-prefix=">" class="text-success"><code>Done!</code></pre>
             </div>
@@ -80,7 +80,7 @@
                 <pre data-prefix=">" class="text-white"><code>work collaboratively, track code history, and ensure project stability through version tracking.</code></pre>
             </div>
             <div class="w-full md:w-[20%] mockup-code">
-                <pre data-prefix="$" class="bg-warning text-warning-content"><code>npm i version control</code></pre>
+                <pre data-prefix="$" class="bg-warning text-warning-content w-min"><code>npm i version control</code></pre>
                 <pre data-prefix=">" class="text-warning"><code>GitHub, GitLab</code></pre>
                 <pre data-prefix=">" class="text-success"><code>Done!</code></pre>
             </div>

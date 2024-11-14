@@ -6,8 +6,8 @@
                 :key="item" 
                 :value="item" 
             />
-            <div class="kbd bg-secondary indicator resume-text">
-                <span class="indicator-item badge badge-accent">download me</span>
+            <div class="kbd bg-secondary indicator">
+                <span class="indicator-item badge badge-accent text-xs md:text-sm">download me ;)</span>
                 <div class="grid place-items-center text-xl font-black">
                     <a href="/Latest-CV.pdf" download>
                         Resume
@@ -29,11 +29,3 @@
         'wanahmadsyahmi26@gmail.com'
     ]);
 </script>
-
-<style scoped>
-    .resume-text {
-        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-        font-feature-settings: normal;
-        font-variation-settings: normal;
-    }
-</style>
